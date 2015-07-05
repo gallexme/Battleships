@@ -23,7 +23,7 @@ If you have any questions or feature requests, don't hesitate to contact me on [
 
 ### Current Todo's
 
- - [ ] LAN-Support
+ - [X] LAN-Support
  - [ ] Implement ship setting thread correctly
  - [ ] Make hover wrapper invisible
  - [x] Add hover wrapper
